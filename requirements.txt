@@ -1,0 +1,19 @@
+# Numerical Tools 
+numpy==1.26.3
+pandas==2.2.0
+pyarrow==15.0.0
+
+# Scientific packages
+scipy==1.12.0
+statsmodels==0.14.1
+scikit-learn==1.4.0
+
+# Plotting tools
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+
+# Financial packages
+numpy_financial==1.0.0
+yfinance==0.2.36
+pandas-market-calendars==4.4.0
