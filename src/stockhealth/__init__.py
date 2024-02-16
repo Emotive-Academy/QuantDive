@@ -6,6 +6,7 @@ This is QuantDive Software by Emotive Academy. It is a software package for
 
 The version of the package is obtained from __version__ attribute.
 The author(s) of the package is obtained from __author__ attribute.
+The owner of the package is obtained from __owner__ attribute.
 
 Copyright:
     (c) 2024 Emotive Academy.
@@ -15,8 +16,9 @@ License:
     GNU General Public License v3.0
 """
 
-__version__ = "0.1.0"
-__author__ = "Emotive Academy"
+__version__ = "1.0.0"
+__owner__ = "Emotive Academy"
+__author__ = ["Siddhartha Banerjee"]
 
 # Importing the modules
 import numpy as np
