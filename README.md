@@ -4,7 +4,7 @@
 **Disclaimer**: This software is for educational purposes only. It is not intended to provide investment advice. Do not make investment decisions based on this software.
 
 # Intro 
-A powerful tool diving deep into the world of quantitative finance, providing robust analysis and insights for stock market enthusiasts and professionals alike. This tool is made available by [Emotive Academy](www.emotive.academy).
+A powerful tool diving deep into the world of quantitative finance, providing robust analysis and insights for stock market enthusiasts and professionals alike. This tool is made available by [Emotive Academy](http://emotive.academy).
 
 ## Overview
 
